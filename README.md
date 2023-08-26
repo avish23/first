@@ -1,4 +1,4 @@
 # first
 first git repository
 <br>
-author-avish
+author-avish (student)
